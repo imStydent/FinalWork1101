@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Арем\\source\\repos\\FragrantWorld\\FragrantWorldWebApi\\FragrantWorldWebApi.csproj": {}
+    "C:\\Users\\Арем\\Documents\\GitHub\\FinalWork1101\\FragrantWorld\\FragrantWorldWebApi\\FragrantWorldWebApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Арем\\source\\repos\\FragrantWorld\\FragrantWorldWebApi\\FragrantWorldWebApi.csproj": {
+    "C:\\Users\\Арем\\Documents\\GitHub\\FinalWork1101\\FragrantWorld\\FragrantWorldWebApi\\FragrantWorldWebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Арем\\source\\repos\\FragrantWorld\\FragrantWorldWebApi\\FragrantWorldWebApi.csproj",
+        "projectUniqueName": "C:\\Users\\Арем\\Documents\\GitHub\\FinalWork1101\\FragrantWorld\\FragrantWorldWebApi\\FragrantWorldWebApi.csproj",
         "projectName": "FragrantWorldWebApi",
-        "projectPath": "C:\\Users\\Арем\\source\\repos\\FragrantWorld\\FragrantWorldWebApi\\FragrantWorldWebApi.csproj",
+        "projectPath": "C:\\Users\\Арем\\Documents\\GitHub\\FinalWork1101\\FragrantWorld\\FragrantWorldWebApi\\FragrantWorldWebApi.csproj",
         "packagesPath": "C:\\Users\\Арем\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Арем\\source\\repos\\FragrantWorld\\FragrantWorldWebApi\\obj\\",
+        "outputPath": "C:\\Users\\Арем\\Documents\\GitHub\\FinalWork1101\\FragrantWorld\\FragrantWorldWebApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Арем\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,4 +1,5 @@
-﻿using FragrantWorld.Models;
+﻿using Azure;
+using FragrantWorld.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -21,32 +22,44 @@ namespace FragrantWorld.Services
 
         public async Task<IEnumerable<Product>?> GetProductsAsync()
         {
-            return await _client.GetFromJsonAsync<IEnumerable<Product>>("Products");
+            var response = await _client.GetAsync("Products");
+            response.EnsureSuccessStatusCode();
+            return await response.Content.ReadFromJsonAsync<IEnumerable<Product>>();
         }
 
         public async Task<IEnumerable<Product>?> GetFilteredProductsAsync(int? sortBy, string? name,string? maker="", decimal? minPrice=null, decimal? maxPrice=null)
         {
-            return await _client.GetFromJsonAsync<IEnumerable<Product>>($"Products/{sortBy}/{name}");
+            var response = await _client.GetAsync($"Products/{sortBy}/{name}");
+            response.EnsureSuccessStatusCode();
+            return await response.Content.ReadFromJsonAsync<IEnumerable<Product>>();
         }
 
-        public async Task<IEnumerable<string>> GetManufacterersAsync()
+        public async Task<IEnumerable<string>?> GetManufacterersAsync()
         {
-            return await _client.GetFromJsonAsync<IEnumerable<string>>($"Products/manufacters");
+            var response = await _client.GetAsync($"Products/manufacters");
+            response.EnsureSuccessStatusCode();
+            return await response.Content.ReadFromJsonAsync<IEnumerable<string>?>();
         }
 
-        public async Task<User> GetUserByLoginAsync(string login)
+        public async Task<User?> GetUserByLoginAsync(string login)
         {
-            return await _client.GetFromJsonAsync<User>($"Users/{login}");
+            var response = await _client.GetAsync($"Users/{login}");
+            response.EnsureSuccessStatusCode();
+            return await response.Content.ReadFromJsonAsync<User>();
         }
 
-        public async Task<IEnumerable<PickupPoint>> GetPickupPointsAsync()
+        public async Task<IEnumerable<PickupPoint>?> GetPickupPointsAsync()
         {
-            return await _client.GetFromJsonAsync<IEnumerable<PickupPoint>>($"PickupPoints");
+            var response = await _client.GetAsync($"PickupPoints");
+            response.EnsureSuccessStatusCode();
+            return await response.Content.ReadFromJsonAsync<IEnumerable<PickupPoint>?>();
         }
 
         public async Task<int> GetOrderNextIdAsync()
         {
-            return await _client.GetFromJsonAsync<int>($"Orders/lastId");
+            var response = await _client.GetAsync($"Orders/lastId");
+            response.EnsureSuccessStatusCode();
+            return await response.Content.ReadFromJsonAsync<int>();
         }
 
         public async Task AddOrderAsync(Order order)

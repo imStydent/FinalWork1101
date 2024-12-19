@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qAJ2UUmCDts=",
+  "dgSpecHash": "8QpSM5r3Pgw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Арем\\source\\repos\\FragrantWorld\\FragrantWorldWebApi\\FragrantWorldWebApi.csproj",
+  "projectFilePath": "C:\\Users\\Арем\\Documents\\GitHub\\FinalWork1101\\FragrantWorld\\FragrantWorldWebApi\\FragrantWorldWebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Арем\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Арем\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

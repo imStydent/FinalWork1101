@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Арем\\source\\repos\\FragrantWorld\\DataBaseLibrary\\DataBaseLibrary.csproj": {}
+    "C:\\Users\\Арем\\Documents\\GitHub\\FinalWork1101\\FragrantWorld\\DataBaseLibrary\\DataBaseLibrary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Арем\\source\\repos\\FragrantWorld\\DataBaseLibrary\\DataBaseLibrary.csproj": {
+    "C:\\Users\\Арем\\Documents\\GitHub\\FinalWork1101\\FragrantWorld\\DataBaseLibrary\\DataBaseLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Арем\\source\\repos\\FragrantWorld\\DataBaseLibrary\\DataBaseLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\Арем\\Documents\\GitHub\\FinalWork1101\\FragrantWorld\\DataBaseLibrary\\DataBaseLibrary.csproj",
         "projectName": "DataBaseLibrary",
-        "projectPath": "C:\\Users\\Арем\\source\\repos\\FragrantWorld\\DataBaseLibrary\\DataBaseLibrary.csproj",
+        "projectPath": "C:\\Users\\Арем\\Documents\\GitHub\\FinalWork1101\\FragrantWorld\\DataBaseLibrary\\DataBaseLibrary.csproj",
         "packagesPath": "C:\\Users\\Арем\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Арем\\source\\repos\\FragrantWorld\\DataBaseLibrary\\obj\\",
+        "outputPath": "C:\\Users\\Арем\\Documents\\GitHub\\FinalWork1101\\FragrantWorld\\DataBaseLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Арем\\AppData\\Roaming\\NuGet\\NuGet.Config",

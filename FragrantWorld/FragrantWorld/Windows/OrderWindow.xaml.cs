@@ -4,6 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+using System.Net.Http;
 using System.Runtime.CompilerServices;
 using System.Text;
 using System.Threading.Tasks;
@@ -64,11 +65,18 @@ namespace FragrantWorld.Windows
                 OrderPickupPoint = pickupPointSelectionComboBox.SelectedIndex + 1, OrderReceiptCode = Convert.ToInt16(receiptCode)
                 ,OrderPickupPointNavigation = new PickupPoint{ PostCode = postCode, Address = address }
             };
-            await _service.AddOrderAsync(order);
-            MessageBox.Show("Заказ был создан", "Успешно", MessageBoxButton.OK, MessageBoxImage.Information);
-            products.Clear();
-            productsListBox.Items.Refresh();
-            UpdateInfo();
+            try
+            {
+                await _service.AddOrderAsync(order);
+                MessageBox.Show("Заказ был создан", "Успешно", MessageBoxButton.OK, MessageBoxImage.Information);
+                products.Clear();
+                productsListBox.Items.Refresh();
+                UpdateInfo();
+            }
+            catch (HttpRequestException ex)
+            {
+                MessageBox.Show(ex.Message,"Ошибка",MessageBoxButton.OK, MessageBoxImage.Error);
+            }    
         }
 
         private void SaveTicketButton_Click(object sender, RoutedEventArgs e)

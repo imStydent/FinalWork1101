@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Text.Json.Serialization;
 
 namespace FragrantWorldWebApi.Models;
 
@@ -19,5 +20,6 @@ public partial class Order
 
     public virtual PickupPoint OrderPickupPointNavigation { get; set; } = null!;
 
+    [JsonIgnore]
     public virtual ICollection<OrderProduct> OrderProducts { get; set; } = new List<OrderProduct>();
 }

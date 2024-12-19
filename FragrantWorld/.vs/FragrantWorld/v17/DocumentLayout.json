@@ -1,125 +1,137 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\\u0410\u0440\u0435\u043C\\source\\repos\\FragrantWorld\\",
+  "WorkspaceRootPath": "C:\\Users\\\u0410\u0440\u0435\u043C\\Documents\\GitHub\\FinalWork1101\\FragrantWorld\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E126142E-48F1-4D08-879F-20105CC3BA27}|FragrantWorld\\FragrantWorld.csproj|c:\\users\\\u0430\u0440\u0435\u043C\\source\\repos\\fragrantworld\\fragrantworld\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E126142E-48F1-4D08-879F-20105CC3BA27}|FragrantWorld\\FragrantWorld.csproj|c:\\users\\\u0430\u0440\u0435\u043C\\documents\\github\\finalwork1101\\fragrantworld\\fragrantworld\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E126142E-48F1-4D08-879F-20105CC3BA27}|FragrantWorld\\FragrantWorld.csproj|solutionrelative:fragrantworld\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E126142E-48F1-4D08-879F-20105CC3BA27}|FragrantWorld\\FragrantWorld.csproj|c:\\users\\\u0430\u0440\u0435\u043C\\source\\repos\\fragrantworld\\fragrantworld\\windows\\authorizationwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E126142E-48F1-4D08-879F-20105CC3BA27}|FragrantWorld\\FragrantWorld.csproj|solutionrelative:fragrantworld\\windows\\authorizationwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E126142E-48F1-4D08-879F-20105CC3BA27}|FragrantWorld\\FragrantWorld.csproj|c:\\users\\\u0430\u0440\u0435\u043C\\source\\repos\\fragrantworld\\fragrantworld\\windows\\orderwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E126142E-48F1-4D08-879F-20105CC3BA27}|FragrantWorld\\FragrantWorld.csproj|c:\\users\\\u0430\u0440\u0435\u043C\\documents\\github\\finalwork1101\\fragrantworld\\fragrantworld\\windows\\orderwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E126142E-48F1-4D08-879F-20105CC3BA27}|FragrantWorld\\FragrantWorld.csproj|solutionrelative:fragrantworld\\windows\\orderwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E126142E-48F1-4D08-879F-20105CC3BA27}|FragrantWorld\\FragrantWorld.csproj|c:\\users\\\u0430\u0440\u0435\u043C\\source\\repos\\fragrantworld\\fragrantworld\\windows\\orderwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{E126142E-48F1-4D08-879F-20105CC3BA27}|FragrantWorld\\FragrantWorld.csproj|solutionrelative:fragrantworld\\windows\\orderwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{E126142E-48F1-4D08-879F-20105CC3BA27}|FragrantWorld\\FragrantWorld.csproj|c:\\users\\\u0430\u0440\u0435\u043C\\documents\\github\\finalwork1101\\fragrantworld\\fragrantworld\\windows\\authorizationwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E126142E-48F1-4D08-879F-20105CC3BA27}|FragrantWorld\\FragrantWorld.csproj|solutionrelative:fragrantworld\\windows\\authorizationwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E207B875-2F25-4AE7-B16F-852EEE46ACFD}|FragrantWorldWebApi\\FragrantWorldWebApi.csproj|c:\\users\\\u0430\u0440\u0435\u043C\\source\\repos\\fragrantworld\\fragrantworldwebapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E207B875-2F25-4AE7-B16F-852EEE46ACFD}|FragrantWorldWebApi\\FragrantWorldWebApi.csproj|solutionrelative:fragrantworldwebapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E207B875-2F25-4AE7-B16F-852EEE46ACFD}|FragrantWorldWebApi\\FragrantWorldWebApi.csproj|c:\\users\\\u0430\u0440\u0435\u043C\\source\\repos\\fragrantworld\\fragrantworldwebapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E207B875-2F25-4AE7-B16F-852EEE46ACFD}|FragrantWorldWebApi\\FragrantWorldWebApi.csproj|solutionrelative:fragrantworldwebapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E207B875-2F25-4AE7-B16F-852EEE46ACFD}|FragrantWorldWebApi\\FragrantWorldWebApi.csproj|c:\\users\\\u0430\u0440\u0435\u043C\\source\\repos\\fragrantworld\\fragrantworldwebapi\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E207B875-2F25-4AE7-B16F-852EEE46ACFD}|FragrantWorldWebApi\\FragrantWorldWebApi.csproj|solutionrelative:fragrantworldwebapi\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E207B875-2F25-4AE7-B16F-852EEE46ACFD}|FragrantWorldWebApi\\FragrantWorldWebApi.csproj|c:\\users\\\u0430\u0440\u0435\u043C\\source\\repos\\fragrantworld\\fragrantworldwebapi\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E207B875-2F25-4AE7-B16F-852EEE46ACFD}|FragrantWorldWebApi\\FragrantWorldWebApi.csproj|solutionrelative:fragrantworldwebapi\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F860E0CB-CA70-40D8-A750-C9170C2D0C38}|DataBaseLibrary\\DataBaseLibrary.csproj|c:\\users\\\u0430\u0440\u0435\u043C\\source\\repos\\fragrantworld\\databaselibrary\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F860E0CB-CA70-40D8-A750-C9170C2D0C38}|DataBaseLibrary\\DataBaseLibrary.csproj|solutionrelative:databaselibrary\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F860E0CB-CA70-40D8-A750-C9170C2D0C38}|DataBaseLibrary\\DataBaseLibrary.csproj|c:\\users\\\u0430\u0440\u0435\u043C\\source\\repos\\fragrantworld\\databaselibrary\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F860E0CB-CA70-40D8-A750-C9170C2D0C38}|DataBaseLibrary\\DataBaseLibrary.csproj|solutionrelative:databaselibrary\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F860E0CB-CA70-40D8-A750-C9170C2D0C38}|DataBaseLibrary\\DataBaseLibrary.csproj|c:\\users\\\u0430\u0440\u0435\u043C\\source\\repos\\fragrantworld\\databaselibrary\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F860E0CB-CA70-40D8-A750-C9170C2D0C38}|DataBaseLibrary\\DataBaseLibrary.csproj|solutionrelative:databaselibrary\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F860E0CB-CA70-40D8-A750-C9170C2D0C38}|DataBaseLibrary\\DataBaseLibrary.csproj|c:\\users\\\u0430\u0440\u0435\u043C\\source\\repos\\fragrantworld\\databaselibrary\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F860E0CB-CA70-40D8-A750-C9170C2D0C38}|DataBaseLibrary\\DataBaseLibrary.csproj|solutionrelative:databaselibrary\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F860E0CB-CA70-40D8-A750-C9170C2D0C38}|DataBaseLibrary\\DataBaseLibrary.csproj|c:\\users\\\u0430\u0440\u0435\u043C\\source\\repos\\fragrantworld\\databaselibrary\\data\\fragrantworldcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F860E0CB-CA70-40D8-A750-C9170C2D0C38}|DataBaseLibrary\\DataBaseLibrary.csproj|solutionrelative:databaselibrary\\data\\fragrantworldcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F860E0CB-CA70-40D8-A750-C9170C2D0C38}|DataBaseLibrary\\DataBaseLibrary.csproj|c:\\users\\\u0430\u0440\u0435\u043C\\source\\repos\\fragrantworld\\databaselibrary\\services\\pickuppointservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F860E0CB-CA70-40D8-A750-C9170C2D0C38}|DataBaseLibrary\\DataBaseLibrary.csproj|solutionrelative:databaselibrary\\services\\pickuppointservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F860E0CB-CA70-40D8-A750-C9170C2D0C38}|DataBaseLibrary\\DataBaseLibrary.csproj|c:\\users\\\u0430\u0440\u0435\u043C\\source\\repos\\fragrantworld\\databaselibrary\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F860E0CB-CA70-40D8-A750-C9170C2D0C38}|DataBaseLibrary\\DataBaseLibrary.csproj|solutionrelative:databaselibrary\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E207B875-2F25-4AE7-B16F-852EEE46ACFD}|FragrantWorldWebApi\\FragrantWorldWebApi.csproj|c:\\users\\\u0430\u0440\u0435\u043C\\source\\repos\\fragrantworld\\fragrantworldwebapi\\controllers\\pickuppointscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E207B875-2F25-4AE7-B16F-852EEE46ACFD}|FragrantWorldWebApi\\FragrantWorldWebApi.csproj|solutionrelative:fragrantworldwebapi\\controllers\\pickuppointscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E126142E-48F1-4D08-879F-20105CC3BA27}|FragrantWorld\\FragrantWorld.csproj|c:\\users\\\u0430\u0440\u0435\u043C\\source\\repos\\fragrantworld\\fragrantworld\\services\\webapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E126142E-48F1-4D08-879F-20105CC3BA27}|FragrantWorld\\FragrantWorld.csproj|solutionrelative:fragrantworld\\services\\webapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E207B875-2F25-4AE7-B16F-852EEE46ACFD}|FragrantWorldWebApi\\FragrantWorldWebApi.csproj|c:\\users\\\u0430\u0440\u0435\u043C\\source\\repos\\fragrantworld\\fragrantworldwebapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E207B875-2F25-4AE7-B16F-852EEE46ACFD}|FragrantWorldWebApi\\FragrantWorldWebApi.csproj|solutionrelative:fragrantworldwebapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E126142E-48F1-4D08-879F-20105CC3BA27}|FragrantWorld\\FragrantWorld.csproj|c:\\users\\\u0430\u0440\u0435\u043C\\source\\repos\\fragrantworld\\fragrantworld\\windows\\workwithorderswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{E126142E-48F1-4D08-879F-20105CC3BA27}|FragrantWorld\\FragrantWorld.csproj|solutionrelative:fragrantworld\\windows\\workwithorderswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E126142E-48F1-4D08-879F-20105CC3BA27}|FragrantWorld\\FragrantWorld.csproj|c:\\users\\\u0430\u0440\u0435\u043C\\source\\repos\\fragrantworld\\fragrantworld\\windows\\authorizationwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{E126142E-48F1-4D08-879F-20105CC3BA27}|FragrantWorld\\FragrantWorld.csproj|solutionrelative:fragrantworld\\windows\\authorizationwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E126142E-48F1-4D08-879F-20105CC3BA27}|FragrantWorld\\FragrantWorld.csproj|c:\\users\\\u0430\u0440\u0435\u043C\\source\\repos\\fragrantworld\\fragrantworld\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{E126142E-48F1-4D08-879F-20105CC3BA27}|FragrantWorld\\FragrantWorld.csproj|c:\\users\\\u0430\u0440\u0435\u043C\\documents\\github\\finalwork1101\\fragrantworld\\fragrantworld\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{E126142E-48F1-4D08-879F-20105CC3BA27}|FragrantWorld\\FragrantWorld.csproj|solutionrelative:fragrantworld\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E126142E-48F1-4D08-879F-20105CC3BA27}|FragrantWorld\\FragrantWorld.csproj|c:\\users\\\u0430\u0440\u0435\u043C\\source\\repos\\fragrantworld\\fragrantworld\\windows\\workwithorderswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E126142E-48F1-4D08-879F-20105CC3BA27}|FragrantWorld\\FragrantWorld.csproj|solutionrelative:fragrantworld\\windows\\workwithorderswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E126142E-48F1-4D08-879F-20105CC3BA27}|FragrantWorld\\FragrantWorld.csproj|c:\\users\\\u0430\u0440\u0435\u043C\\documents\\github\\finalwork1101\\fragrantworld\\fragrantworld\\services\\webapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E126142E-48F1-4D08-879F-20105CC3BA27}|FragrantWorld\\FragrantWorld.csproj|solutionrelative:fragrantworld\\services\\webapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E207B875-2F25-4AE7-B16F-852EEE46ACFD}|FragrantWorldWebApi\\FragrantWorldWebApi.csproj|c:\\users\\\u0430\u0440\u0435\u043C\\source\\repos\\fragrantworld\\fragrantworldwebapi\\models\\orderproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E207B875-2F25-4AE7-B16F-852EEE46ACFD}|FragrantWorldWebApi\\FragrantWorldWebApi.csproj|solutionrelative:fragrantworldwebapi\\models\\orderproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E126142E-48F1-4D08-879F-20105CC3BA27}|FragrantWorld\\FragrantWorld.csproj|c:\\users\\\u0430\u0440\u0435\u043C\\source\\repos\\fragrantworld\\fragrantworld\\models\\orderproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E126142E-48F1-4D08-879F-20105CC3BA27}|FragrantWorld\\FragrantWorld.csproj|c:\\users\\\u0430\u0440\u0435\u043C\\documents\\github\\finalwork1101\\fragrantworld\\fragrantworld\\models\\orderproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E126142E-48F1-4D08-879F-20105CC3BA27}|FragrantWorld\\FragrantWorld.csproj|solutionrelative:fragrantworld\\models\\orderproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E207B875-2F25-4AE7-B16F-852EEE46ACFD}|FragrantWorldWebApi\\FragrantWorldWebApi.csproj|c:\\users\\\u0430\u0440\u0435\u043C\\source\\repos\\fragrantworld\\fragrantworldwebapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E207B875-2F25-4AE7-B16F-852EEE46ACFD}|FragrantWorldWebApi\\FragrantWorldWebApi.csproj|solutionrelative:fragrantworldwebapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E207B875-2F25-4AE7-B16F-852EEE46ACFD}|FragrantWorldWebApi\\FragrantWorldWebApi.csproj|c:\\users\\\u0430\u0440\u0435\u043C\\documents\\github\\finalwork1101\\fragrantworld\\fragrantworldwebapi\\models\\pickuppoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E207B875-2F25-4AE7-B16F-852EEE46ACFD}|FragrantWorldWebApi\\FragrantWorldWebApi.csproj|solutionrelative:fragrantworldwebapi\\models\\pickuppoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E126142E-48F1-4D08-879F-20105CC3BA27}|FragrantWorld\\FragrantWorld.csproj|c:\\users\\\u0430\u0440\u0435\u043C\\source\\repos\\fragrantworld\\fragrantworld\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E126142E-48F1-4D08-879F-20105CC3BA27}|FragrantWorld\\FragrantWorld.csproj|solutionrelative:fragrantworld\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E207B875-2F25-4AE7-B16F-852EEE46ACFD}|FragrantWorldWebApi\\FragrantWorldWebApi.csproj|c:\\users\\\u0430\u0440\u0435\u043C\\documents\\github\\finalwork1101\\fragrantworld\\fragrantworldwebapi\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E207B875-2F25-4AE7-B16F-852EEE46ACFD}|FragrantWorldWebApi\\FragrantWorldWebApi.csproj|solutionrelative:fragrantworldwebapi\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E126142E-48F1-4D08-879F-20105CC3BA27}|FragrantWorld\\FragrantWorld.csproj|c:\\users\\\u0430\u0440\u0435\u043C\\source\\repos\\fragrantworld\\fragrantworld\\models\\pickuppoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E126142E-48F1-4D08-879F-20105CC3BA27}|FragrantWorld\\FragrantWorld.csproj|solutionrelative:fragrantworld\\models\\pickuppoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E207B875-2F25-4AE7-B16F-852EEE46ACFD}|FragrantWorldWebApi\\FragrantWorldWebApi.csproj|c:\\users\\\u0430\u0440\u0435\u043C\\documents\\github\\finalwork1101\\fragrantworld\\fragrantworldwebapi\\models\\orderproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E207B875-2F25-4AE7-B16F-852EEE46ACFD}|FragrantWorldWebApi\\FragrantWorldWebApi.csproj|solutionrelative:fragrantworldwebapi\\models\\orderproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E126142E-48F1-4D08-879F-20105CC3BA27}|FragrantWorld\\FragrantWorld.csproj|c:\\users\\\u0430\u0440\u0435\u043C\\source\\repos\\fragrantworld\\fragrantworld\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E126142E-48F1-4D08-879F-20105CC3BA27}|FragrantWorld\\FragrantWorld.csproj|c:\\users\\\u0430\u0440\u0435\u043C\\documents\\github\\finalwork1101\\fragrantworld\\fragrantworld\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E126142E-48F1-4D08-879F-20105CC3BA27}|FragrantWorld\\FragrantWorld.csproj|solutionrelative:fragrantworld\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E126142E-48F1-4D08-879F-20105CC3BA27}|FragrantWorld\\FragrantWorld.csproj|c:\\users\\\u0430\u0440\u0435\u043C\\source\\repos\\fragrantworld\\fragrantworld\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E126142E-48F1-4D08-879F-20105CC3BA27}|FragrantWorld\\FragrantWorld.csproj|c:\\users\\\u0430\u0440\u0435\u043C\\documents\\github\\finalwork1101\\fragrantworld\\fragrantworld\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E126142E-48F1-4D08-879F-20105CC3BA27}|FragrantWorld\\FragrantWorld.csproj|solutionrelative:fragrantworld\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E126142E-48F1-4D08-879F-20105CC3BA27}|FragrantWorld\\FragrantWorld.csproj|c:\\users\\\u0430\u0440\u0435\u043C\\documents\\github\\finalwork1101\\fragrantworld\\fragrantworld\\models\\pickuppoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E126142E-48F1-4D08-879F-20105CC3BA27}|FragrantWorld\\FragrantWorld.csproj|solutionrelative:fragrantworld\\models\\pickuppoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E207B875-2F25-4AE7-B16F-852EEE46ACFD}|FragrantWorldWebApi\\FragrantWorldWebApi.csproj|c:\\users\\\u0430\u0440\u0435\u043C\\documents\\github\\finalwork1101\\fragrantworld\\fragrantworldwebapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E207B875-2F25-4AE7-B16F-852EEE46ACFD}|FragrantWorldWebApi\\FragrantWorldWebApi.csproj|solutionrelative:fragrantworldwebapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E207B875-2F25-4AE7-B16F-852EEE46ACFD}|FragrantWorldWebApi\\FragrantWorldWebApi.csproj|c:\\users\\\u0430\u0440\u0435\u043C\\documents\\github\\finalwork1101\\fragrantworld\\fragrantworldwebapi\\data\\fragrantworldcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E207B875-2F25-4AE7-B16F-852EEE46ACFD}|FragrantWorldWebApi\\FragrantWorldWebApi.csproj|solutionrelative:fragrantworldwebapi\\data\\fragrantworldcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F860E0CB-CA70-40D8-A750-C9170C2D0C38}|DataBaseLibrary\\DataBaseLibrary.csproj|c:\\users\\\u0430\u0440\u0435\u043C\\documents\\github\\finalwork1101\\fragrantworld\\databaselibrary\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F860E0CB-CA70-40D8-A750-C9170C2D0C38}|DataBaseLibrary\\DataBaseLibrary.csproj|solutionrelative:databaselibrary\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F860E0CB-CA70-40D8-A750-C9170C2D0C38}|DataBaseLibrary\\DataBaseLibrary.csproj|c:\\users\\\u0430\u0440\u0435\u043C\\documents\\github\\finalwork1101\\fragrantworld\\databaselibrary\\services\\pickuppointservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F860E0CB-CA70-40D8-A750-C9170C2D0C38}|DataBaseLibrary\\DataBaseLibrary.csproj|solutionrelative:databaselibrary\\services\\pickuppointservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E126142E-48F1-4D08-879F-20105CC3BA27}|FragrantWorld\\FragrantWorld.csproj|c:\\users\\\u0430\u0440\u0435\u043C\\documents\\github\\finalwork1101\\fragrantworld\\fragrantworld\\windows\\orderwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E126142E-48F1-4D08-879F-20105CC3BA27}|FragrantWorld\\FragrantWorld.csproj|solutionrelative:fragrantworld\\windows\\orderwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E207B875-2F25-4AE7-B16F-852EEE46ACFD}|FragrantWorldWebApi\\FragrantWorldWebApi.csproj|c:\\users\\\u0430\u0440\u0435\u043C\\documents\\github\\finalwork1101\\fragrantworld\\fragrantworldwebapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E207B875-2F25-4AE7-B16F-852EEE46ACFD}|FragrantWorldWebApi\\FragrantWorldWebApi.csproj|solutionrelative:fragrantworldwebapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E207B875-2F25-4AE7-B16F-852EEE46ACFD}|FragrantWorldWebApi\\FragrantWorldWebApi.csproj|c:\\users\\\u0430\u0440\u0435\u043C\\documents\\github\\finalwork1101\\fragrantworld\\fragrantworldwebapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E207B875-2F25-4AE7-B16F-852EEE46ACFD}|FragrantWorldWebApi\\FragrantWorldWebApi.csproj|solutionrelative:fragrantworldwebapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E207B875-2F25-4AE7-B16F-852EEE46ACFD}|FragrantWorldWebApi\\FragrantWorldWebApi.csproj|c:\\users\\\u0430\u0440\u0435\u043C\\documents\\github\\finalwork1101\\fragrantworld\\fragrantworldwebapi\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E207B875-2F25-4AE7-B16F-852EEE46ACFD}|FragrantWorldWebApi\\FragrantWorldWebApi.csproj|solutionrelative:fragrantworldwebapi\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F860E0CB-CA70-40D8-A750-C9170C2D0C38}|DataBaseLibrary\\DataBaseLibrary.csproj|c:\\users\\\u0430\u0440\u0435\u043C\\documents\\github\\finalwork1101\\fragrantworld\\databaselibrary\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F860E0CB-CA70-40D8-A750-C9170C2D0C38}|DataBaseLibrary\\DataBaseLibrary.csproj|solutionrelative:databaselibrary\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F860E0CB-CA70-40D8-A750-C9170C2D0C38}|DataBaseLibrary\\DataBaseLibrary.csproj|c:\\users\\\u0430\u0440\u0435\u043C\\documents\\github\\finalwork1101\\fragrantworld\\databaselibrary\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F860E0CB-CA70-40D8-A750-C9170C2D0C38}|DataBaseLibrary\\DataBaseLibrary.csproj|solutionrelative:databaselibrary\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F860E0CB-CA70-40D8-A750-C9170C2D0C38}|DataBaseLibrary\\DataBaseLibrary.csproj|c:\\users\\\u0430\u0440\u0435\u043C\\documents\\github\\finalwork1101\\fragrantworld\\databaselibrary\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F860E0CB-CA70-40D8-A750-C9170C2D0C38}|DataBaseLibrary\\DataBaseLibrary.csproj|solutionrelative:databaselibrary\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F860E0CB-CA70-40D8-A750-C9170C2D0C38}|DataBaseLibrary\\DataBaseLibrary.csproj|c:\\users\\\u0430\u0440\u0435\u043C\\documents\\github\\finalwork1101\\fragrantworld\\databaselibrary\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F860E0CB-CA70-40D8-A750-C9170C2D0C38}|DataBaseLibrary\\DataBaseLibrary.csproj|solutionrelative:databaselibrary\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F860E0CB-CA70-40D8-A750-C9170C2D0C38}|DataBaseLibrary\\DataBaseLibrary.csproj|c:\\users\\\u0430\u0440\u0435\u043C\\documents\\github\\finalwork1101\\fragrantworld\\databaselibrary\\data\\fragrantworldcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F860E0CB-CA70-40D8-A750-C9170C2D0C38}|DataBaseLibrary\\DataBaseLibrary.csproj|solutionrelative:databaselibrary\\data\\fragrantworldcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E207B875-2F25-4AE7-B16F-852EEE46ACFD}|FragrantWorldWebApi\\FragrantWorldWebApi.csproj|c:\\users\\\u0430\u0440\u0435\u043C\\documents\\github\\finalwork1101\\fragrantworld\\fragrantworldwebapi\\controllers\\pickuppointscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E207B875-2F25-4AE7-B16F-852EEE46ACFD}|FragrantWorldWebApi\\FragrantWorldWebApi.csproj|solutionrelative:fragrantworldwebapi\\controllers\\pickuppointscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E207B875-2F25-4AE7-B16F-852EEE46ACFD}|FragrantWorldWebApi\\FragrantWorldWebApi.csproj|c:\\users\\\u0430\u0440\u0435\u043C\\documents\\github\\finalwork1101\\fragrantworld\\fragrantworldwebapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E207B875-2F25-4AE7-B16F-852EEE46ACFD}|FragrantWorldWebApi\\FragrantWorldWebApi.csproj|solutionrelative:fragrantworldwebapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E126142E-48F1-4D08-879F-20105CC3BA27}|FragrantWorld\\FragrantWorld.csproj|c:\\users\\\u0430\u0440\u0435\u043C\\documents\\github\\finalwork1101\\fragrantworld\\fragrantworld\\windows\\workwithorderswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E126142E-48F1-4D08-879F-20105CC3BA27}|FragrantWorld\\FragrantWorld.csproj|solutionrelative:fragrantworld\\windows\\workwithorderswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E126142E-48F1-4D08-879F-20105CC3BA27}|FragrantWorld\\FragrantWorld.csproj|c:\\users\\\u0430\u0440\u0435\u043C\\documents\\github\\finalwork1101\\fragrantworld\\fragrantworld\\windows\\authorizationwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E126142E-48F1-4D08-879F-20105CC3BA27}|FragrantWorld\\FragrantWorld.csproj|solutionrelative:fragrantworld\\windows\\authorizationwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E126142E-48F1-4D08-879F-20105CC3BA27}|FragrantWorld\\FragrantWorld.csproj|c:\\users\\\u0430\u0440\u0435\u043C\\documents\\github\\finalwork1101\\fragrantworld\\fragrantworld\\windows\\workwithorderswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E126142E-48F1-4D08-879F-20105CC3BA27}|FragrantWorld\\FragrantWorld.csproj|solutionrelative:fragrantworld\\windows\\workwithorderswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E207B875-2F25-4AE7-B16F-852EEE46ACFD}|FragrantWorldWebApi\\FragrantWorldWebApi.csproj|c:\\users\\\u0430\u0440\u0435\u043C\\documents\\github\\finalwork1101\\fragrantworld\\fragrantworldwebapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E207B875-2F25-4AE7-B16F-852EEE46ACFD}|FragrantWorldWebApi\\FragrantWorldWebApi.csproj|solutionrelative:fragrantworldwebapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E126142E-48F1-4D08-879F-20105CC3BA27}|FragrantWorld\\FragrantWorld.csproj|c:\\users\\\u0430\u0440\u0435\u043C\\documents\\github\\finalwork1101\\fragrantworld\\fragrantworld\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E126142E-48F1-4D08-879F-20105CC3BA27}|FragrantWorld\\FragrantWorld.csproj|solutionrelative:fragrantworld\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E126142E-48F1-4D08-879F-20105CC3BA27}|FragrantWorld\\FragrantWorld.csproj|c:\\users\\\u0430\u0440\u0435\u043C\\source\\repos\\fragrantworld\\fragrantworld\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E126142E-48F1-4D08-879F-20105CC3BA27}|FragrantWorld\\FragrantWorld.csproj|c:\\users\\\u0430\u0440\u0435\u043C\\documents\\github\\finalwork1101\\fragrantworld\\fragrantworld\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E126142E-48F1-4D08-879F-20105CC3BA27}|FragrantWorld\\FragrantWorld.csproj|solutionrelative:fragrantworld\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -130,141 +142,233 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0435\u043C\\source\\repos\\FragrantWorld\\FragrantWorldWebApi\\Models\\User.cs",
-              "RelativeDocumentMoniker": "FragrantWorldWebApi\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\\u0410\u0440\u0435\u043C\\source\\repos\\FragrantWorld\\FragrantWorldWebApi\\Models\\User.cs",
-              "RelativeToolTip": "FragrantWorldWebApi\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T02:01:45.237Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "OrderWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0435\u043C\\source\\repos\\FragrantWorld\\FragrantWorld\\Windows\\OrderWindow.xaml",
-              "RelativeDocumentMoniker": "FragrantWorld\\Windows\\OrderWindow.xaml",
-              "ToolTip": "C:\\Users\\\u0410\u0440\u0435\u043C\\source\\repos\\FragrantWorld\\FragrantWorld\\Windows\\OrderWindow.xaml",
-              "RelativeToolTip": "FragrantWorld\\Windows\\OrderWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-18T19:53:20.388Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0435\u043C\\source\\repos\\FragrantWorld\\FragrantWorldWebApi\\Models\\Order.cs",
-              "RelativeDocumentMoniker": "FragrantWorldWebApi\\Models\\Order.cs",
-              "ToolTip": "C:\\Users\\\u0410\u0440\u0435\u043C\\source\\repos\\FragrantWorld\\FragrantWorldWebApi\\Models\\Order.cs",
-              "RelativeToolTip": "FragrantWorldWebApi\\Models\\Order.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T22:51:54.138Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "WebApiService.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0435\u043C\\source\\repos\\FragrantWorld\\FragrantWorld\\Services\\WebApiService.cs",
-              "RelativeDocumentMoniker": "FragrantWorld\\Services\\WebApiService.cs",
-              "ToolTip": "C:\\Users\\\u0410\u0440\u0435\u043C\\source\\repos\\FragrantWorld\\FragrantWorld\\Services\\WebApiService.cs",
-              "RelativeToolTip": "FragrantWorld\\Services\\WebApiService.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAA7wDMAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T20:36:38.4Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Role.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0435\u043C\\source\\repos\\FragrantWorld\\FragrantWorldWebApi\\Models\\Role.cs",
-              "RelativeDocumentMoniker": "FragrantWorldWebApi\\Models\\Role.cs",
-              "ToolTip": "C:\\Users\\\u0410\u0440\u0435\u043C\\source\\repos\\FragrantWorld\\FragrantWorldWebApi\\Models\\Role.cs",
-              "RelativeToolTip": "FragrantWorldWebApi\\Models\\Role.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T18:37:46.09Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UsersController.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0435\u043C\\source\\repos\\FragrantWorld\\FragrantWorldWebApi\\Controllers\\UsersController.cs",
-              "RelativeDocumentMoniker": "FragrantWorldWebApi\\Controllers\\UsersController.cs",
-              "ToolTip": "C:\\Users\\\u0410\u0440\u0435\u043C\\source\\repos\\FragrantWorld\\FragrantWorldWebApi\\Controllers\\UsersController.cs",
-              "RelativeToolTip": "FragrantWorldWebApi\\Controllers\\UsersController.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAQwCIAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T18:39:29.523Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0435\u043C\\source\\repos\\FragrantWorld\\FragrantWorld\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "FragrantWorld\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\\u0410\u0440\u0435\u043C\\source\\repos\\FragrantWorld\\FragrantWorld\\MainWindow.xaml",
-              "RelativeToolTip": "FragrantWorld\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-17T19:26:43.865Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "OrderWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0435\u043C\\source\\repos\\FragrantWorld\\FragrantWorld\\Windows\\OrderWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0435\u043C\\Documents\\GitHub\\FinalWork1101\\FragrantWorld\\FragrantWorld\\Windows\\OrderWindow.xaml.cs",
               "RelativeDocumentMoniker": "FragrantWorld\\Windows\\OrderWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\\u0410\u0440\u0435\u043C\\source\\repos\\FragrantWorld\\FragrantWorld\\Windows\\OrderWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0435\u043C\\Documents\\GitHub\\FinalWork1101\\FragrantWorld\\FragrantWorld\\Windows\\OrderWindow.xaml.cs",
               "RelativeToolTip": "FragrantWorld\\Windows\\OrderWindow.xaml.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAnwEsAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAawE0AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-18T19:54:35.957Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AuthorizationWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0435\u043C\\source\\repos\\FragrantWorld\\FragrantWorld\\Windows\\AuthorizationWindow.xaml.cs",
-              "RelativeDocumentMoniker": "FragrantWorld\\Windows\\AuthorizationWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\\u0410\u0440\u0435\u043C\\source\\repos\\FragrantWorld\\FragrantWorld\\Windows\\AuthorizationWindow.xaml.cs",
-              "RelativeToolTip": "FragrantWorld\\Windows\\AuthorizationWindow.xaml.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAqwCkAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0435\u043C\\Documents\\GitHub\\FinalWork1101\\FragrantWorld\\FragrantWorld\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "FragrantWorld\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0435\u043C\\Documents\\GitHub\\FinalWork1101\\FragrantWorld\\FragrantWorld\\Models\\Order.cs",
+              "RelativeToolTip": "FragrantWorld\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T12:35:52.761Z",
+              "WhenOpened": "2024-12-18T22:33:04.441Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0435\u043C\\Documents\\GitHub\\FinalWork1101\\FragrantWorld\\FragrantWorldWebApi\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "FragrantWorldWebApi\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0435\u043C\\Documents\\GitHub\\FinalWork1101\\FragrantWorld\\FragrantWorldWebApi\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "FragrantWorldWebApi\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAQwCIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T18:39:29.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0435\u043C\\Documents\\GitHub\\FinalWork1101\\FragrantWorld\\FragrantWorldWebApi\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "FragrantWorldWebApi\\Models\\Role.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0435\u043C\\Documents\\GitHub\\FinalWork1101\\FragrantWorld\\FragrantWorldWebApi\\Models\\Role.cs",
+              "RelativeToolTip": "FragrantWorldWebApi\\Models\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T18:37:46.09Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0435\u043C\\source\\repos\\FragrantWorld\\FragrantWorld\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0435\u043C\\Documents\\GitHub\\FinalWork1101\\FragrantWorld\\FragrantWorld\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "FragrantWorld\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\\u0410\u0440\u0435\u043C\\source\\repos\\FragrantWorld\\FragrantWorld\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0435\u043C\\Documents\\GitHub\\FinalWork1101\\FragrantWorld\\FragrantWorld\\MainWindow.xaml.cs",
               "RelativeToolTip": "FragrantWorld\\MainWindow.xaml.cs",
-              "ViewState": "AgIAADoAAAAAAAAAAIA2wC0AAABRAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAA6wC8AAABiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-17T19:26:33.314Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderProduct.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0435\u043C\\Documents\\GitHub\\FinalWork1101\\FragrantWorld\\FragrantWorld\\Models\\OrderProduct.cs",
+              "RelativeDocumentMoniker": "FragrantWorld\\Models\\OrderProduct.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0435\u043C\\Documents\\GitHub\\FinalWork1101\\FragrantWorld\\FragrantWorld\\Models\\OrderProduct.cs",
+              "RelativeToolTip": "FragrantWorld\\Models\\OrderProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T22:34:13.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PickupPoint.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0435\u043C\\Documents\\GitHub\\FinalWork1101\\FragrantWorld\\FragrantWorldWebApi\\Models\\PickupPoint.cs",
+              "RelativeDocumentMoniker": "FragrantWorldWebApi\\Models\\PickupPoint.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0435\u043C\\Documents\\GitHub\\FinalWork1101\\FragrantWorld\\FragrantWorldWebApi\\Models\\PickupPoint.cs",
+              "RelativeToolTip": "FragrantWorldWebApi\\Models\\PickupPoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T08:11:05.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PickupPoint.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0435\u043C\\Documents\\GitHub\\FinalWork1101\\FragrantWorld\\FragrantWorld\\Models\\PickupPoint.cs",
+              "RelativeDocumentMoniker": "FragrantWorld\\Models\\PickupPoint.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0435\u043C\\Documents\\GitHub\\FinalWork1101\\FragrantWorld\\FragrantWorld\\Models\\PickupPoint.cs",
+              "RelativeToolTip": "FragrantWorld\\Models\\PickupPoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T23:06:29.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0435\u043C\\Documents\\GitHub\\FinalWork1101\\FragrantWorld\\FragrantWorld\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "FragrantWorld\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0435\u043C\\Documents\\GitHub\\FinalWork1101\\FragrantWorld\\FragrantWorld\\MainWindow.xaml",
+              "RelativeToolTip": "FragrantWorld\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-17T19:26:43.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthorizationWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0435\u043C\\Documents\\GitHub\\FinalWork1101\\FragrantWorld\\FragrantWorld\\Windows\\AuthorizationWindow.xaml.cs",
+              "RelativeDocumentMoniker": "FragrantWorld\\Windows\\AuthorizationWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0435\u043C\\Documents\\GitHub\\FinalWork1101\\FragrantWorld\\FragrantWorld\\Windows\\AuthorizationWindow.xaml.cs",
+              "RelativeToolTip": "FragrantWorld\\Windows\\AuthorizationWindow.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwCkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T12:35:52.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WebApiService.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0435\u043C\\Documents\\GitHub\\FinalWork1101\\FragrantWorld\\FragrantWorld\\Services\\WebApiService.cs",
+              "RelativeDocumentMoniker": "FragrantWorld\\Services\\WebApiService.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0435\u043C\\Documents\\GitHub\\FinalWork1101\\FragrantWorld\\FragrantWorld\\Services\\WebApiService.cs",
+              "RelativeToolTip": "FragrantWorld\\Services\\WebApiService.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAIA4wEMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T20:36:38.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0435\u043C\\Documents\\GitHub\\FinalWork1101\\FragrantWorld\\FragrantWorldWebApi\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "FragrantWorldWebApi\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0435\u043C\\Documents\\GitHub\\FinalWork1101\\FragrantWorld\\FragrantWorldWebApi\\Models\\Order.cs",
+              "RelativeToolTip": "FragrantWorldWebApi\\Models\\Order.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T22:51:54.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0435\u043C\\Documents\\GitHub\\FinalWork1101\\FragrantWorld\\DataBaseLibrary\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "DataBaseLibrary\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0435\u043C\\Documents\\GitHub\\FinalWork1101\\FragrantWorld\\DataBaseLibrary\\Services\\ProductService.cs",
+              "RelativeToolTip": "DataBaseLibrary\\Services\\ProductService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAiwCYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T01:32:57.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0435\u043C\\Documents\\GitHub\\FinalWork1101\\FragrantWorld\\FragrantWorld\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "FragrantWorld\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0435\u043C\\Documents\\GitHub\\FinalWork1101\\FragrantWorld\\FragrantWorld\\Models\\Product.cs",
+              "RelativeToolTip": "FragrantWorld\\Models\\Product.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAmwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T20:37:05.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderProduct.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0435\u043C\\Documents\\GitHub\\FinalWork1101\\FragrantWorld\\FragrantWorldWebApi\\Models\\OrderProduct.cs",
+              "RelativeDocumentMoniker": "FragrantWorldWebApi\\Models\\OrderProduct.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0435\u043C\\Documents\\GitHub\\FinalWork1101\\FragrantWorld\\FragrantWorldWebApi\\Models\\OrderProduct.cs",
+              "RelativeToolTip": "FragrantWorldWebApi\\Models\\OrderProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T22:53:48.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 13,
+              "Title": "FragrantWorldContext.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0435\u043C\\Documents\\GitHub\\FinalWork1101\\FragrantWorld\\FragrantWorldWebApi\\Data\\FragrantWorldContext.cs",
+              "RelativeDocumentMoniker": "FragrantWorldWebApi\\Data\\FragrantWorldContext.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0435\u043C\\Documents\\GitHub\\FinalWork1101\\FragrantWorld\\FragrantWorldWebApi\\Data\\FragrantWorldContext.cs",
+              "RelativeToolTip": "FragrantWorldWebApi\\Data\\FragrantWorldContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T07:36:12.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0435\u043C\\Documents\\GitHub\\FinalWork1101\\FragrantWorld\\FragrantWorldWebApi\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "FragrantWorldWebApi\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0435\u043C\\Documents\\GitHub\\FinalWork1101\\FragrantWorld\\FragrantWorldWebApi\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "FragrantWorldWebApi\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAqwCEAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T07:33:21.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "PickupPointService.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0435\u043C\\source\\repos\\FragrantWorld\\DataBaseLibrary\\Services\\PickupPointService.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0435\u043C\\Documents\\GitHub\\FinalWork1101\\FragrantWorld\\DataBaseLibrary\\Services\\PickupPointService.cs",
               "RelativeDocumentMoniker": "DataBaseLibrary\\Services\\PickupPointService.cs",
-              "ToolTip": "C:\\Users\\\u0410\u0440\u0435\u043C\\source\\repos\\FragrantWorld\\DataBaseLibrary\\Services\\PickupPointService.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0435\u043C\\Documents\\GitHub\\FinalWork1101\\FragrantWorld\\DataBaseLibrary\\Services\\PickupPointService.cs",
               "RelativeToolTip": "DataBaseLibrary\\Services\\PickupPointService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -273,63 +377,82 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "FragrantWorldContext.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0435\u043C\\source\\repos\\FragrantWorld\\DataBaseLibrary\\Data\\FragrantWorldContext.cs",
-              "RelativeDocumentMoniker": "DataBaseLibrary\\Data\\FragrantWorldContext.cs",
-              "ToolTip": "C:\\Users\\\u0410\u0440\u0435\u043C\\source\\repos\\FragrantWorld\\DataBaseLibrary\\Data\\FragrantWorldContext.cs",
-              "RelativeToolTip": "DataBaseLibrary\\Data\\FragrantWorldContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T02:00:08.383Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Role.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0435\u043C\\source\\repos\\FragrantWorld\\DataBaseLibrary\\Models\\Role.cs",
-              "RelativeDocumentMoniker": "DataBaseLibrary\\Models\\Role.cs",
-              "ToolTip": "C:\\Users\\\u0410\u0440\u0435\u043C\\source\\repos\\FragrantWorld\\DataBaseLibrary\\Models\\Role.cs",
-              "RelativeToolTip": "DataBaseLibrary\\Models\\Role.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T02:00:53.825Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0435\u043C\\source\\repos\\FragrantWorld\\DataBaseLibrary\\Models\\User.cs",
-              "RelativeDocumentMoniker": "DataBaseLibrary\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\\u0410\u0440\u0435\u043C\\source\\repos\\FragrantWorld\\DataBaseLibrary\\Models\\User.cs",
-              "RelativeToolTip": "DataBaseLibrary\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T02:01:04.899Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0435\u043C\\source\\repos\\FragrantWorld\\DataBaseLibrary\\Models\\Order.cs",
-              "RelativeDocumentMoniker": "DataBaseLibrary\\Models\\Order.cs",
-              "ToolTip": "C:\\Users\\\u0410\u0440\u0435\u043C\\source\\repos\\FragrantWorld\\DataBaseLibrary\\Models\\Order.cs",
-              "RelativeToolTip": "DataBaseLibrary\\Models\\Order.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T02:01:08.003Z",
-              "EditorCaption": ""
+              "DocumentIndex": 16,
+              "Title": "OrderWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0435\u043C\\Documents\\GitHub\\FinalWork1101\\FragrantWorld\\FragrantWorld\\Windows\\OrderWindow.xaml",
+              "RelativeDocumentMoniker": "FragrantWorld\\Windows\\OrderWindow.xaml",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0435\u043C\\Documents\\GitHub\\FinalWork1101\\FragrantWorld\\FragrantWorld\\Windows\\OrderWindow.xaml",
+              "RelativeToolTip": "FragrantWorld\\Windows\\OrderWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-18T19:53:20.388Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0435\u043C\\Documents\\GitHub\\FinalWork1101\\FragrantWorld\\FragrantWorldWebApi\\Models\\User.cs",
+              "RelativeDocumentMoniker": "FragrantWorldWebApi\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0435\u043C\\Documents\\GitHub\\FinalWork1101\\FragrantWorld\\FragrantWorldWebApi\\Models\\User.cs",
+              "RelativeToolTip": "FragrantWorldWebApi\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T02:01:45.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FragrantWorldContext.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0435\u043C\\Documents\\GitHub\\FinalWork1101\\FragrantWorld\\DataBaseLibrary\\Data\\FragrantWorldContext.cs",
+              "RelativeDocumentMoniker": "DataBaseLibrary\\Data\\FragrantWorldContext.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0435\u043C\\Documents\\GitHub\\FinalWork1101\\FragrantWorld\\DataBaseLibrary\\Data\\FragrantWorldContext.cs",
+              "RelativeToolTip": "DataBaseLibrary\\Data\\FragrantWorldContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T02:00:08.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0435\u043C\\Documents\\GitHub\\FinalWork1101\\FragrantWorld\\DataBaseLibrary\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "DataBaseLibrary\\Models\\Role.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0435\u043C\\Documents\\GitHub\\FinalWork1101\\FragrantWorld\\DataBaseLibrary\\Models\\Role.cs",
+              "RelativeToolTip": "DataBaseLibrary\\Models\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T02:00:53.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0435\u043C\\Documents\\GitHub\\FinalWork1101\\FragrantWorld\\DataBaseLibrary\\Models\\User.cs",
+              "RelativeDocumentMoniker": "DataBaseLibrary\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0435\u043C\\Documents\\GitHub\\FinalWork1101\\FragrantWorld\\DataBaseLibrary\\Models\\User.cs",
+              "RelativeToolTip": "DataBaseLibrary\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T02:01:04.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0435\u043C\\Documents\\GitHub\\FinalWork1101\\FragrantWorld\\DataBaseLibrary\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "DataBaseLibrary\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0435\u043C\\Documents\\GitHub\\FinalWork1101\\FragrantWorld\\DataBaseLibrary\\Models\\Order.cs",
+              "RelativeToolTip": "DataBaseLibrary\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T02:01:08.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
               "Title": "OrdersController.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0435\u043C\\source\\repos\\FragrantWorld\\FragrantWorldWebApi\\Controllers\\OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0435\u043C\\Documents\\GitHub\\FinalWork1101\\FragrantWorld\\FragrantWorldWebApi\\Controllers\\OrdersController.cs",
               "RelativeDocumentMoniker": "FragrantWorldWebApi\\Controllers\\OrdersController.cs",
-              "ToolTip": "C:\\Users\\\u0410\u0440\u0435\u043C\\source\\repos\\FragrantWorld\\FragrantWorldWebApi\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0435\u043C\\Documents\\GitHub\\FinalWork1101\\FragrantWorld\\FragrantWorldWebApi\\Controllers\\OrdersController.cs",
               "RelativeToolTip": "FragrantWorldWebApi\\Controllers\\OrdersController.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAiwC8AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -337,36 +460,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 23,
               "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0435\u043C\\source\\repos\\FragrantWorld\\DataBaseLibrary\\Models\\Product.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0435\u043C\\Documents\\GitHub\\FinalWork1101\\FragrantWorld\\DataBaseLibrary\\Models\\Product.cs",
               "RelativeDocumentMoniker": "DataBaseLibrary\\Models\\Product.cs",
-              "ToolTip": "C:\\Users\\\u0410\u0440\u0435\u043C\\source\\repos\\FragrantWorld\\DataBaseLibrary\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0435\u043C\\Documents\\GitHub\\FinalWork1101\\FragrantWorld\\DataBaseLibrary\\Models\\Product.cs",
               "RelativeToolTip": "DataBaseLibrary\\Models\\Product.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAAABsAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T11:26:45.573Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-18T11:26:45.573Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ProductService.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0435\u043C\\source\\repos\\FragrantWorld\\DataBaseLibrary\\Services\\ProductService.cs",
-              "RelativeDocumentMoniker": "DataBaseLibrary\\Services\\ProductService.cs",
-              "ToolTip": "C:\\Users\\\u0410\u0440\u0435\u043C\\source\\repos\\FragrantWorld\\DataBaseLibrary\\Services\\ProductService.cs",
-              "RelativeToolTip": "DataBaseLibrary\\Services\\ProductService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T01:32:57.679Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 25,
               "Title": "PickupPointsController.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0435\u043C\\source\\repos\\FragrantWorld\\FragrantWorldWebApi\\Controllers\\PickupPointsController.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0435\u043C\\Documents\\GitHub\\FinalWork1101\\FragrantWorld\\FragrantWorldWebApi\\Controllers\\PickupPointsController.cs",
               "RelativeDocumentMoniker": "FragrantWorldWebApi\\Controllers\\PickupPointsController.cs",
-              "ToolTip": "C:\\Users\\\u0410\u0440\u0435\u043C\\source\\repos\\FragrantWorld\\FragrantWorldWebApi\\Controllers\\PickupPointsController.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0435\u043C\\Documents\\GitHub\\FinalWork1101\\FragrantWorld\\FragrantWorldWebApi\\Controllers\\PickupPointsController.cs",
               "RelativeToolTip": "FragrantWorldWebApi\\Controllers\\PickupPointsController.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -374,33 +484,34 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 27,
               "Title": "WorkWithOrdersWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0435\u043C\\source\\repos\\FragrantWorld\\FragrantWorld\\Windows\\WorkWithOrdersWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0435\u043C\\Documents\\GitHub\\FinalWork1101\\FragrantWorld\\FragrantWorld\\Windows\\WorkWithOrdersWindow.xaml",
               "RelativeDocumentMoniker": "FragrantWorld\\Windows\\WorkWithOrdersWindow.xaml",
-              "ToolTip": "C:\\Users\\\u0410\u0440\u0435\u043C\\source\\repos\\FragrantWorld\\FragrantWorld\\Windows\\WorkWithOrdersWindow.xaml",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0435\u043C\\Documents\\GitHub\\FinalWork1101\\FragrantWorld\\FragrantWorld\\Windows\\WorkWithOrdersWindow.xaml",
               "RelativeToolTip": "FragrantWorld\\Windows\\WorkWithOrdersWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-12-19T00:11:55.383Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 28,
               "Title": "AuthorizationWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0435\u043C\\source\\repos\\FragrantWorld\\FragrantWorld\\Windows\\AuthorizationWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0435\u043C\\Documents\\GitHub\\FinalWork1101\\FragrantWorld\\FragrantWorld\\Windows\\AuthorizationWindow.xaml",
               "RelativeDocumentMoniker": "FragrantWorld\\Windows\\AuthorizationWindow.xaml",
-              "ToolTip": "C:\\Users\\\u0410\u0440\u0435\u043C\\source\\repos\\FragrantWorld\\FragrantWorld\\Windows\\AuthorizationWindow.xaml",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0435\u043C\\Documents\\GitHub\\FinalWork1101\\FragrantWorld\\FragrantWorld\\Windows\\AuthorizationWindow.xaml",
               "RelativeToolTip": "FragrantWorld\\Windows\\AuthorizationWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-18T12:23:01.999Z"
+              "WhenOpened": "2024-12-18T12:23:01.999Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 29,
               "Title": "WorkWithOrdersWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0435\u043C\\source\\repos\\FragrantWorld\\FragrantWorld\\Windows\\WorkWithOrdersWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0435\u043C\\Documents\\GitHub\\FinalWork1101\\FragrantWorld\\FragrantWorld\\Windows\\WorkWithOrdersWindow.xaml.cs",
               "RelativeDocumentMoniker": "FragrantWorld\\Windows\\WorkWithOrdersWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\\u0410\u0440\u0435\u043C\\source\\repos\\FragrantWorld\\FragrantWorld\\Windows\\WorkWithOrdersWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0435\u043C\\Documents\\GitHub\\FinalWork1101\\FragrantWorld\\FragrantWorld\\Windows\\WorkWithOrdersWindow.xaml.cs",
               "RelativeToolTip": "FragrantWorld\\Windows\\WorkWithOrdersWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -408,35 +519,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "OrderProduct.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0435\u043C\\source\\repos\\FragrantWorld\\FragrantWorldWebApi\\Models\\OrderProduct.cs",
-              "RelativeDocumentMoniker": "FragrantWorldWebApi\\Models\\OrderProduct.cs",
-              "ToolTip": "C:\\Users\\\u0410\u0440\u0435\u043C\\source\\repos\\FragrantWorld\\FragrantWorldWebApi\\Models\\OrderProduct.cs",
-              "RelativeToolTip": "FragrantWorldWebApi\\Models\\OrderProduct.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T22:53:48.101Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "OrderProduct.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0435\u043C\\source\\repos\\FragrantWorld\\FragrantWorld\\Models\\OrderProduct.cs",
-              "RelativeDocumentMoniker": "FragrantWorld\\Models\\OrderProduct.cs",
-              "ToolTip": "C:\\Users\\\u0410\u0440\u0435\u043C\\source\\repos\\FragrantWorld\\FragrantWorld\\Models\\OrderProduct.cs",
-              "RelativeToolTip": "FragrantWorld\\Models\\OrderProduct.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T22:34:13.905Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 30,
               "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0435\u043C\\source\\repos\\FragrantWorld\\FragrantWorldWebApi\\Models\\Product.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0435\u043C\\Documents\\GitHub\\FinalWork1101\\FragrantWorld\\FragrantWorldWebApi\\Models\\Product.cs",
               "RelativeDocumentMoniker": "FragrantWorldWebApi\\Models\\Product.cs",
-              "ToolTip": "C:\\Users\\\u0410\u0440\u0435\u043C\\source\\repos\\FragrantWorld\\FragrantWorldWebApi\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0435\u043C\\Documents\\GitHub\\FinalWork1101\\FragrantWorld\\FragrantWorldWebApi\\Models\\Product.cs",
               "RelativeToolTip": "FragrantWorldWebApi\\Models\\Product.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAAwB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -444,47 +531,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0435\u043C\\source\\repos\\FragrantWorld\\FragrantWorld\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "FragrantWorld\\Models\\Product.cs",
-              "ToolTip": "C:\\Users\\\u0410\u0440\u0435\u043C\\source\\repos\\FragrantWorld\\FragrantWorld\\Models\\Product.cs",
-              "RelativeToolTip": "FragrantWorld\\Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwB0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T20:37:05.807Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0435\u043C\\source\\repos\\FragrantWorld\\FragrantWorld\\Models\\Order.cs",
-              "RelativeDocumentMoniker": "FragrantWorld\\Models\\Order.cs",
-              "ToolTip": "C:\\Users\\\u0410\u0440\u0435\u043C\\source\\repos\\FragrantWorld\\FragrantWorld\\Models\\Order.cs",
-              "RelativeToolTip": "FragrantWorld\\Models\\Order.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T22:33:04.441Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "PickupPoint.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0435\u043C\\source\\repos\\FragrantWorld\\FragrantWorld\\Models\\PickupPoint.cs",
-              "RelativeDocumentMoniker": "FragrantWorld\\Models\\PickupPoint.cs",
-              "ToolTip": "C:\\Users\\\u0410\u0440\u0435\u043C\\source\\repos\\FragrantWorld\\FragrantWorld\\Models\\PickupPoint.cs",
-              "RelativeToolTip": "FragrantWorld\\Models\\PickupPoint.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T23:06:29.93Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 31,
               "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0435\u043C\\source\\repos\\FragrantWorld\\FragrantWorld\\Models\\User.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0435\u043C\\Documents\\GitHub\\FinalWork1101\\FragrantWorld\\FragrantWorld\\Models\\User.cs",
               "RelativeDocumentMoniker": "FragrantWorld\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\\u0410\u0440\u0435\u043C\\source\\repos\\FragrantWorld\\FragrantWorld\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0435\u043C\\Documents\\GitHub\\FinalWork1101\\FragrantWorld\\FragrantWorld\\Models\\User.cs",
               "RelativeToolTip": "FragrantWorld\\Models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -492,11 +543,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 32,
               "Title": "Role.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0435\u043C\\source\\repos\\FragrantWorld\\FragrantWorld\\Models\\Role.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0435\u043C\\Documents\\GitHub\\FinalWork1101\\FragrantWorld\\FragrantWorld\\Models\\Role.cs",
               "RelativeDocumentMoniker": "FragrantWorld\\Models\\Role.cs",
-              "ToolTip": "C:\\Users\\\u0410\u0440\u0435\u043C\\source\\repos\\FragrantWorld\\FragrantWorld\\Models\\Role.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0435\u043C\\Documents\\GitHub\\FinalWork1101\\FragrantWorld\\FragrantWorld\\Models\\Role.cs",
               "RelativeToolTip": "FragrantWorld\\Models\\Role.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
