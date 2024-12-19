@@ -14,19 +14,26 @@
 
 Требуется установить указанные выше программы, следуя их установщикам.
 
-Скажи, какой будет шаг
+Следущем щагом будет изменить строку подключения в методе OnConfiguring, в файле FragrantWorldContext.cs, в папке Data.
 
 ```
-Приведи пример
+protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+    => optionsBuilder.UseSqlServer("Ваша_строка_подключения");
 ```
 
-И повтори
+Далее требуется назначить несколько запускаемых проектов, а именно FragrantWorldWebApi и FragrantWorld.
 
-```
-Пока не закончил
-```
+Вы готовы использовать проект!
 
-Завершите пример получением некоторых данных о системе или использования их для небольшой демонстрации
+### Известные баги
+
+1) Не удается вызывать метод на фильтрацию(полную его версию, то есть со всеми параметрами). При изменении параметров в HttpGet и добавлении новых параметров в метод GetFilteredProductsAsync(WebApiService), выдаётся ошибка 404.
+   Ниже пример изменненного **не рабочего** кода.
+   ```
+   [HttpGet("{sortBy:int}/{name?}/{maker?}/{minPrice?}/{maxPrice?}"]
+   // В WebApiService
+   return await _client.GetFromJsonAsync<IEnumerable<Product>>($"Products/{sortBy}/{name}/{maker}/{minPrice}/{maxPrice}");
+   ```
 
 ## Авторы
 
