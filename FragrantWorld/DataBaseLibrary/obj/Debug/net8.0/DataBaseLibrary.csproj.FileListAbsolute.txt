@@ -1,0 +1,14 @@
+C:\Users\Арем\source\repos\FragrantWorld\DataBaseLibrary\bin\Debug\net8.0\DataBaseLibrary.deps.json
+C:\Users\Арем\source\repos\FragrantWorld\DataBaseLibrary\bin\Debug\net8.0\DataBaseLibrary.runtimeconfig.json
+C:\Users\Арем\source\repos\FragrantWorld\DataBaseLibrary\bin\Debug\net8.0\DataBaseLibrary.dll
+C:\Users\Арем\source\repos\FragrantWorld\DataBaseLibrary\bin\Debug\net8.0\DataBaseLibrary.pdb
+C:\Users\Арем\source\repos\FragrantWorld\DataBaseLibrary\obj\Debug\net8.0\DataBaseLibrary.csproj.AssemblyReference.cache
+C:\Users\Арем\source\repos\FragrantWorld\DataBaseLibrary\obj\Debug\net8.0\DataBaseLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Арем\source\repos\FragrantWorld\DataBaseLibrary\obj\Debug\net8.0\DataBaseLibrary.AssemblyInfoInputs.cache
+C:\Users\Арем\source\repos\FragrantWorld\DataBaseLibrary\obj\Debug\net8.0\DataBaseLibrary.AssemblyInfo.cs
+C:\Users\Арем\source\repos\FragrantWorld\DataBaseLibrary\obj\Debug\net8.0\DataBaseLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Арем\source\repos\FragrantWorld\DataBaseLibrary\obj\Debug\net8.0\DataBaseLibrary.dll
+C:\Users\Арем\source\repos\FragrantWorld\DataBaseLibrary\obj\Debug\net8.0\refint\DataBaseLibrary.dll
+C:\Users\Арем\source\repos\FragrantWorld\DataBaseLibrary\obj\Debug\net8.0\DataBaseLibrary.pdb
+C:\Users\Арем\source\repos\FragrantWorld\DataBaseLibrary\obj\Debug\net8.0\DataBaseLibrary.genruntimeconfig.cache
+C:\Users\Арем\source\repos\FragrantWorld\DataBaseLibrary\obj\Debug\net8.0\ref\DataBaseLibrary.dll
